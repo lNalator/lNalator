@@ -16,6 +16,8 @@ Backend : C# (.NET) / Javascript (Express) / SQL
 
 3D : Global understanding of Unity and Unreal Engine.
 
+
+
 📈 Mon parcours:
 
 Découverte de la programmation avec Unity (Création de jeux) il y a 8 ans.
