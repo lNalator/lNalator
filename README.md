@@ -2,7 +2,8 @@
 
 👨‍🎓 Young graduate of the program "Développeur Informatique" (RNCP - Niveau 5) in apprenticeship, I currently have 2 years of professional experience under my belt.
 
-
+\n
+\n
 
 👨‍💻 Mes compétences:
 
@@ -16,7 +17,8 @@ Backend : C# (.NET) / Javascript (Express) / SQL
 
 3D : Global understanding of Unity and Unreal Engine.
 
-
+\n
+\n
 
 📈 Mon parcours:
 
