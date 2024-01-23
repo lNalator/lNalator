@@ -3,7 +3,9 @@
 👨‍🎓 Young graduate of the program "Développeur Informatique" (RNCP - Niveau 5) in apprenticeship, I currently have 2 years of professional experience under my belt.
 
 <br>
+
 [![lNalator's github stats](https://github-readme-stats.vercel.app/api?username=lNalator&show_icons=true&theme=radical)](https://github.com/lNalator/github-readme-stats)
+
 <br>
 
 👨‍💻 Mes compétences:
