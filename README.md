@@ -1,6 +1,6 @@
 @lNalator - Alad - Software Engineer (Web, Software, Games...)
 
-👨‍🎓 Young graduate of the program "Développeur Informatique" (RNCP - Niveau 5) in apprenticeship, I currently have 2 years of professional experience under my belt.
+👨‍🎓 Jeune diplômé de la formation "Développeur Informatique" (RNCP - Niveau 5) en apprentissage du CESI, j'ai actuellement 2 ans d'experiences professionnelles à mon actif.
 
 <br>
 
