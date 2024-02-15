@@ -4,7 +4,7 @@
 
 <br>
 
-https://www.codewars.com/users/Nalator/badges/large
+<img src=https://www.codewars.com/users/Nalator/badges/large>
 
 <br>
 
