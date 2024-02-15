@@ -3,10 +3,7 @@
 👨‍🎓 Jeune diplômé de la formation "Développeur Informatique" (RNCP - Niveau 5) en apprentissage du CESI, j'ai actuellement 2 ans d'experiences professionnelles à mon actif.
 
 <br>
-
 <img src=https://www.codewars.com/users/Nalator/badges/large>
-
-<br>
 
 [![lNalator's github stats](https://github-readme-stats.vercel.app/api?username=lNalator&show_icons=true&theme=radical)](https://github.com/lNalator/github-readme-stats)
 
