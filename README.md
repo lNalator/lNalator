@@ -33,3 +33,4 @@ Baccalauréat Géneral Spécialité Numérique et Sciences Informatiques (2020)
 
 Formation finalisée de Développeur Informatique (BAC +2)
 
+Aujourd'hui - Recherche d'une nouvelle opportunité de travail dans le développement.
