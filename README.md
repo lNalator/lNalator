@@ -11,7 +11,7 @@
 
 👨‍💻 Mes compétences:
 
-[![My Skills](https://skillicons.dev/icons?i=github,reactnative,react,next,js,ts,html,css,sass,cs,dotnet,figma,unity,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,react,next,js,ts,html,css,sass,cs,dotnet,figma,unity,visualstudio,vscode)](https://skillicons.dev)
 
 Langages maîtrisés : JavaScript & TypeScript / SQL / HTML / CSS / C# / C# .NET.
 
