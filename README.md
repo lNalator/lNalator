@@ -11,15 +11,15 @@
 
 👨‍💻 Mes compétences:
 
-[![My Skills](https://skillicons.dev/icons?i=github,react,next,js,ts,html,css,sass,cs,dotnet,figma,unity,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,reactnative,react,next,js,ts,html,css,sass,cs,dotnet,figma,unity,visualstudio,vscode)](https://skillicons.dev)
 
-Langages maîtrisés : JavaScript / SQL / HTML / CSS / C# / C# .NET.
+Langages maîtrisés : JavaScript & TypeScript / SQL / HTML / CSS / C# / C# .NET.
 
-Frontend : ReactJS / Chakra UI / HTML / CSS
+Frontend : ReactJS / NextJs / React Native / HTML / CSS
 
 Backend : C# (.NET) / Javascript (Express) / SQL
 
-3D : Global understanding of Unity and Unreal Engine.
+3D : Compréhension générale d'Unity & Unreal Engine.
 
 <br>
 
